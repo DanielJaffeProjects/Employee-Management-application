@@ -1,0 +1,23 @@
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\bin\Debug\net9.0-windows\employee app.exe
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\bin\Debug\net9.0-windows\employee app.deps.json
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\bin\Debug\net9.0-windows\employee app.runtimeconfig.json
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\bin\Debug\net9.0-windows\employee app.dll
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\bin\Debug\net9.0-windows\employee app.pdb
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app_MarkupCompile.cache
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app_MarkupCompile.lref
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.g.resources
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.AssemblyInfoInputs.cache
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.AssemblyInfo.cs
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.csproj.CoreCompileInputs.cache
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.sourcelink.json
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.dll
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\refint\employee app.dll
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.pdb
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\employee app.genruntimeconfig.cache
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\ref\employee app.dll
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\login.g.cs
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\manager.g.cs
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\login.baml
+C:\Users\drjed\OneDrive\Documents\RiderProjects\Employee-Management-application\employee app\employee app\obj\Debug\net9.0-windows\manager.baml

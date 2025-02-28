@@ -1,0 +1,26 @@
+﻿<Window x:Class="employee_app.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:employee_app"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Height="25" Margin="0,22,0,0" TextWrapping="Wrap" Text="Hi this is going to be the best application you have seen!" VerticalAlignment="Top" Width="408" TextChanged="TextBox_TextChanged" TextAlignment="Center">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFB3FF16" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Button Content="Login" HorizontalAlignment="Left" Height="48" Margin="262,91,0,0" VerticalAlignment="Top" Width="138" Background="#FF14FF23"/>
+        <Button Content="Create account" HorizontalAlignment="Left" Height="48" Margin="405,91,0,0" VerticalAlignment="Top" Width="137" Click="Button_Click_1" Background="#FF286DDE"/>
+        <TextBox HorizontalAlignment="Center" Height="28" Margin="0,163,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="200" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox HorizontalAlignment="Center" Height="45" Margin="0,217,0,0" TextWrapping="Wrap" Text="password" VerticalAlignment="Top" Width="200"/>
+        <TextBox HorizontalAlignment="Center" Height="29" Margin="0,286,0,0" TextWrapping="Wrap" Text="test" VerticalAlignment="Top" Width="200"/>
+        <TextBox HorizontalAlignment="Center" Height="41" Margin="0,361,0,0" TextWrapping="Wrap" Text="test2" VerticalAlignment="Top" Width="200"/>
+
+    </Grid>
+</Window>
